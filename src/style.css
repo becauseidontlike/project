@@ -1,8 +1,15 @@
 h1 {
-            text-align: center;
-            color:blue;
+          text-align: center;
+          color:blue;
         }
 
 footer {
-          text-align: center;
+        text-align: center;
         }
+div {
+  text-align: center;
+}
+
+footer {
+  font-size: 13px;
+}
