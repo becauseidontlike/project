@@ -1,11 +1,13 @@
 body {
-  background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/062/196/original/tardis.jpg?1673384597");
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: 'Sofia Sans Condensed', sans-serif;
 }
 
 h1 {
   text-align: center;
-  color:#142d4c; 
+  color:#abcbf3; 
   font-style: bold;
   font-size: 50px;
 }
@@ -35,8 +37,9 @@ footer {
 .container {
   max-width: 600px;
   margin: 0 auto;
+  margin-top: 40px;
   border-radius: 5px;
-  background: #6acad9; 
+  background: #1E344D; 
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
   padding: 10px;
   border: 40px;
