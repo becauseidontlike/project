@@ -31,7 +31,9 @@ function update(event){
                 <h2>${cityNames}</h2>
                 <div class="date">${cityT.format("MMMM Do YYYY")}</div>
                 <div class="time">${cityT.format("h:mm:ss")} <small>${cityT.format("A")}</div>
-            </div>`
+            </div>
+            <br />
+            <a href="index.html">All cities</a>`
 }
 
 
