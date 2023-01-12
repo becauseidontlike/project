@@ -54,14 +54,14 @@ footer {
 }
 
 .cities {
-  font-size: 22px;
+  font-size: 21px;
   display: flex;
   justify-content: space-between;
   border-bottom: 1px dashed rgba(0, 0, 0, 0.3);
   margin: 0 auto;
   text-align: left;
   padding: 20px;
-  width: 80%;
+  width: 90%;
 }
 
 .cities:last-child {
