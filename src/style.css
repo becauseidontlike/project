@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   color:#244467;
   font-style: bold;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 img {
@@ -54,7 +54,7 @@ footer {
 }
 
 .cities {
-  font-size: 24px;
+  font-size: 22px;
   display: flex;
   justify-content: space-between;
   border-bottom: 1px dashed rgba(0, 0, 0, 0.3);
@@ -69,7 +69,7 @@ footer {
 }
 
 .time {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
   text-align: right;
 }
